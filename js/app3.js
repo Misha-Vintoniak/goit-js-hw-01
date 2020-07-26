@@ -1,3 +1,5 @@
+console.log("app3");
+
 const userPassword = 'jqueryismyjam';
 const ADMIN_PASSWORD = 'jqueryismyjam';
 

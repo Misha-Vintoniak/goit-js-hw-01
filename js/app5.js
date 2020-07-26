@@ -39,9 +39,6 @@ if (price > 0) { // Write code on this line
 console.log(message);
 
 
-const color = ["red", "yellow"];
-
-document.body.style.background = color;
 //если countryName равно "КитаЙ"
 // то значение message будет равно
 // 'Доставка в Китай будет стоить 100 кредитов'
